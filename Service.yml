@@ -1,5 +1,5 @@
 kind: Service                             
-apiVersion: v1
+apiVersion: v2
 metadata:
   name: vkdevops
   labels:
